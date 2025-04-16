@@ -1,6 +1,4 @@
-[🧑‍💻 Hi, I'm Nicolas Muskus Tarazona. I'm a 17-year-old programming student passionate about techonology and software development. I'm interested in creating innovative solutions and improving my programming skills every day. Currently, I'm learning new techologies and working on small projects to grow professionally. Welcome to my GitHub!
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=stack&text1=🧑‍💻%20Hi%2C%20I'm%20Nicolas%20Muskus%20Tarazona.&text2=I'm%20a%2017-year-old%20programming%20student%20passionate%20about%20techonology.&text3=I%20love%20creating%20solutions%20and%20growing%20daily%20as%20a%20developer.&text4=Currently%20learning%20JS%20and%20working%20on%20projects!&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasmuskustarazona&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="nicolasmuskustarazona" /> </p>
 
