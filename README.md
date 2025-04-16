@@ -1,5 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=stack&text1=Hi%2C%20I%27m%20Nicolas.&text2=JS%20learner%20%7C%20Colombian%20dev.&text3=Let%27s%20build%20cool%20stuff%20%F0%9F%9A%80&width=1000&height=250)](https://github.com/NicolasMuskusTarazona)
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=stack&text1=a&width=1000&height=250)](https://github.com/NicolasMuskusTarazona)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasmuskustarazona&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="nicolasmuskustarazona" /> </p>
 
