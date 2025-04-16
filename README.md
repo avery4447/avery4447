@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=stack&text1=a&width=1000&height=300050)](https://github.com/avery4447)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=👨‍💻%20Hi%20I'm%20Nicolas%20Muskus%20Tarazona&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasmuskustarazona&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="nicolasmuskustarazona" /> </p>
 
