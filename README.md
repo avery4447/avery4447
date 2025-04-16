@@ -66,4 +66,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMuskusTarazona&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuskusTarazona&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://i.pinimg.com/originals/48/9f/71/489f7128c61eb0c4f2b6bc882708ef6e.gif" alt="nicolasmuskustarazona" /></p>
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/48/9f/71/489f7128c61eb0c4f2b6bc882708ef6e.gif" alt="nicolasmuskustarazona" /></p>
