@@ -1,4 +1,4 @@
-<h1 align="center">[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)</h1>
+align="center"[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h3 align="center">🧑‍💻 Hi,I'm Nicolas Muskus Tarazona.I'm a 17-year-old programming student passionate about techonology and software development.I'm interested in creating innovative solutions and improving my programming skills every day. Currently. I'm learning new techologies and working on small projects to grow professionally.Welcome to my GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasmuskustarazona&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="nicolasmuskustarazona" /> </p>
