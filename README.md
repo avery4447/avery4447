@@ -8,7 +8,7 @@
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://nicolasmuskustarazona.github.io/Portafolio/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nic00.777/)
-[<img src="[https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Discord-%231877F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)" />](https://discord.gg/rBVjPh63y4) 
+[<img src="https://img.shields.io/badge/Discord-%231877F2.svg?&style=for-the-badge&logo=Discord&logoColor=white" />](https://discord.gg/rBVjPh63y4) 
 
 </p>
 
