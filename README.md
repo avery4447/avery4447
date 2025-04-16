@@ -1,6 +1,16 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h3 align="center">🧑‍💻 Hi,I'm Nicolas Muskus Tarazona.I'm a 16-year-old programming student passionate about techonology and software development.I'm interested in creating innovative solutions and improving my programming skills every day. Currently. I'm learning new techologies and working on small projects to grow professionally.Welcome to my GitHub!</h3>
 
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://nicolasmuskustarazona.github.io/Portafolio/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nic00.777/)
+[<img src="[https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Discord-%231877F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)" />](https://discord.gg/rBVjPh63y4) 
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasmuskustarazona&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasmuskustarazona" /> </p>
 
@@ -56,9 +66,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=NicolasMuskusTarazona&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasMuskusTarazona&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuskusTarazona&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasmuskustarazona&show_icons=true&locale=en&layout=compact" alt="nicolasmuskustarazona" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasmuskustarazona&show_icons=true&locale=en" alt="nicolasmuskustarazona" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasmuskustarazona&" alt="nicolasmuskustarazona" /></p>
