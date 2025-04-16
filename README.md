@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=stack&text1=🧑‍💻%20Hi%2C%20I'm%20Nicolas%20Muskus%20Tarazona.&text2=I'm%20a%2017-year-old%20programming%20student%20passionate%20about%20techonology.&text3=I%20love%20creating%20solutions%20and%20growing%20daily%20as%20a%20developer.&text4=Currently%20learning%20JS%20and%20working%20on%20projects!&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=stack&text1=🧑‍💻%20Hi%2C%20I%27m%20Nicolas%20Muskus%20Tarazona.&text2=I%27m%20a%2017-year-old%20programming%20student%20passionate%20about%20technology.&text3=I%27m%20interested%20in%20creating%20innovative%20solutions%20and%20growing%20my%20skills.&text4=Currently%20learning%20JS%20and%20building%20small%20projects.&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasmuskustarazona&label=Profile%20views&color=1E90FF&style=for-the-badge" alt="nicolasmuskustarazona" /> </p>
 
